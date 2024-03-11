@@ -14,7 +14,7 @@ Make sure you have the following installed on your machine:
 Node.js (https://nodejs.org/)
 npm (Node Package Manager)
 Installation
-Clone the repository:
+Clone the repository:https://github.com/Sayaliswalekar/My-Dashboard.git
 
 bash
 Copy code
